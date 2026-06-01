@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00b4d8&height=220&section=header&text=Daniel%20Ophir&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=EE%20Student%20·%20Embedded%20Systems%20·%20Homelab%20Architect&descAlignY=56&descSize=19&descColor=90e0ef" width="100%"/>
 </div>
 
-/* <p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=10DanielOphir01&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p> */
+</p>
 
 ---
 
