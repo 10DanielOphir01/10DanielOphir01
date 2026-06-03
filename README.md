@@ -65,13 +65,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=10DanielOphir01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10DanielOphir01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=10DanielOphir01&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</div>
+</div> -->
 
 ---
 
