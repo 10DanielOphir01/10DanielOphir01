@@ -61,11 +61,12 @@
 | **📡 GPS Tracker** | Portable tracker with Neo-6M GPS + TFT display, live telemetry | ESP32 · C · Neo-6M V2 |
 | **🎮 ESP32 Handheld** | Gameboy-like device with ILI9488 display and custom firmware | ESP32 · C · ILI9488 |
 
+<!--
 ---
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
+ <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=10DanielOphir01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10DanielOphir01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
